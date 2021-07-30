@@ -19,6 +19,13 @@ public interface UserMapper {
 
     public void updateUserStatus2(User user);
 
+    public void updateUserStatus55(User user);
+    public void updateUserStatus54(User user);
+    public void updateUserStatus32(User user);
+    public void updateUserStatus23(User user);
+    public void updateUserStatus24(User user);
+    public void updateUserStatus52(User user);
+
     public void test1();
     public void test3();
     public void test4();
