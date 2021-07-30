@@ -17,4 +17,5 @@ public interface UserMapper {
      */
     public void updateUserStatus(User user);
 
+    public void updateUserStatus2(User user);
 }
